@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="NetTV" group-title="Lokal FTA", NET.
+http://learninglogic.000webhostapp.com/net.php
+#EXTINF:-1 tvg-ID="Indosiar" group-title="Lokal FTA", INDOSIAR
+http://learninglogic.000webhostapp.com/indosiar.php
+#EXTINF:-1 tvg-ID="SCTV" group-title="Lokal FTA", SCTV
+http://learninglogic.000webhostapp.com/sctv.php
+#EXTINF:-1 tvg-ID="Trans7" group-title="Lokal FTA", TRANS 7
+http://learninglogic.000webhostapp.com/trans7.php
+#EXTINF:-1 tvg-ID="TransTV" group-title="Lokal FTA", TRANS TV
+http://learninglogic.000webhostapp.com/transtv.php
+#EXTINF:-1 tvg-ID="CNNIndonesia" group-title="Lokal FTA", CNN Indonesia
+http://learninglogic.000webhostapp.com/cnn.php
+#EXTINF:-1 tvg-ID="CNBCIndonesia" group-title="Lokal FTA", CNBC Indonesia
+http://learninglogic.000webhostapp.com/cnbc.php
+#EXTINF:-1 tvg-ID="ANTV" group-title="Lokal FTA", ANTV
+http://learninglogic.000webhostapp.com/antv.php
+#EXTINF:-1 tvg-ID="JTV" group-title="Lokal FTA", JTV
+http://learninglogic.000webhostapp.com/jtv.php
+#EXTINF:-1 tvg-ID="TVOne" group-title="Lokal FTA", TVOne
+http://learninglogic.000webhostapp.com/tvone.php
+#EXTINF:-1 tvg-ID="KompasTv" group-title="Lokal FTA", KOMPAS TV
+http://learninglogic.000webhostapp.com/kompas.php
+#EXTINF:-1 tvg-ID="MetroTV" group-title="Lokal FTA", METRO TV
+http://learninglogic.000webhostapp.com/metro.php
+#EXTINF:-1 tvg-ID="BeritaSatu" group-title="Lokal FTA", BeritaSatu
+http://learninglogic.000webhostapp.com/beritasatu.php
+#EXTINF:-1 tvg-ID="RTV" group-title="Lokal FTA", RTV
+http://learninglogic.000webhostapp.com/rtv.php
+#EXTINF:-1 tvg-ID="TVRI" group-title="Lokal FTA", TVRI Nasional
+http://learninglogic.000webhostapp.com/tvri.php
+#EXTINF:-1 tvg-ID="TVRI" group-title="Lokal FTA", TVRI Sport HD
+http://learninglogic.000webhostapp.com/tvrisport.php
+#EXTINF:-1 tvg-ID="SinemaIndonesia" group-title="Lokal FTA", Sinema Indonesia
+http://learninglogic.000webhostapp.com/sinema.php
+#EXTINF:-1 tvg-ID="GalaxyPremium.id" group-title="Lokal FTA", Galaxy Premium
+http://learninglogic.000webhostapp.com/galaxy.php
+
+#EXTINF:-1 tvg-ID="CitraDangdut" group-title="Lokal FTA", Citra Dangdut
+http://learninglogic.000webhostapp.com/citradangdut.php
+#EXTINF:-1 tvg-ID="CitraDrama" group-title="Lokal FTA", Citra Drama
+http://learninglogic.000webhostapp.com/citradrama.php
+#EXTINF:-1 tvg-ID="DuniaLain" group-title="Lokal FTA", Dunia Lain
+http://learninglogic.000webhostapp.com/dunialain.php
+
 #EXTINF:-1 tvg-ID="DisneyChannel" group-title="Kids", Disney Channel
 http://learninglogic.000webhostapp.com/disney.php
 #EXTINF:-1 tvg-ID="DisneyJunior" group-title="Kids", Disney Junior
@@ -161,3 +205,24 @@ http://learninglogic.000webhostapp.com/ch2.php
 http://learninglogic.000webhostapp.com/nbatv.php
 #EXTINF:-1 tvg-ID="Arena.id" group-title="Sports", Astro Arena
 http://learninglogic.000webhostapp.com/astroarena.php
+
+#EXTINF:-1 tvg-ID="ASSP1.id" group-title="Sports", Astro Supersports 1
+http://learninglogic.000webhostapp.com/astro1.php
+#EXTINF:-1 tvg-ID="ASSP2.id" group-title="Sports", Astro Supersports 2
+http://learninglogic.000webhostapp.com/astro2.php
+#EXTINF:-1 tvg-ID="ASSP3.id" group-title="Sports", Astro Supersports 3
+http://learninglogic.000webhostapp.com/astro3.php
+#EXTINF:-1 tvg-ID="ASSP4.id" group-title="Sports", Astro Supersports 4
+http://learninglogic.000webhostapp.com/astro4.php
+#EXTINF:-1 tvg-ID="AF1.id" group-title="Sports", AF Supersport 1
+http://learninglogic.000webhostapp.com/af1.php
+#EXTINF:-1 tvg-ID="AF2.id" group-title="Sports", AF Supersport 2
+http://learninglogic.000webhostapp.com/af2.php
+#EXTINF:-1 tvg-ID="AF3.id" group-title="Sports", AF Supersport 3
+http://learninglogic.000webhostapp.com/af3.php
+#EXTINF:-1 tvg-ID="AF4.id" group-title="Sports", AF Supersport 4
+http://learninglogic.000webhostapp.com/af4.php
+#EXTINF:-1 tvg-ID="AF5.id" group-title="Sports", AF Supersport 5
+http://learninglogic.000webhostapp.com/af5.php
+#EXTINF:-1 tvg-ID="AF6.id" group-title="Sports", AF Supersport 6
+http://learninglogic.000webhostapp.com/af6.php
