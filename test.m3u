@@ -65,3 +65,49 @@ http://learninglogic.000webhostapp.com/fmp.php
 http://learninglogic.000webhostapp.com/fam.php
 #EXTINF:-1 tvg-ID="FOXFamilyMoviesHD" group-title="Movies", FOX Family Movies (ENG)
 http://learninglogic.000webhostapp.com/ffm.php
+#EXTINF:-1 tvg-ID="FOXFamilyMoviesHD" group-title="Movies", FOX Family Movies (IDN)
+http://learninglogic.000webhostapp.com/ffmid.php
+#EXTINF:-1 tvg-ID="HBOHD" group-title="Movies", HBO
+http://learninglogic.000webhostapp.com/hbo.php
+#EXTINF:-1 tvg-ID="HBOFamilyHD" group-title="Movies", HBO Family
+http://learninglogic.000webhostapp.com/hbof.php
+#EXTINF:-1 tvg-ID="HBOHitsHD" group-title="Movies", HBO Hits
+http://learninglogic.000webhostapp.com/hboh.php
+#EXTINF:-1 tvg-ID="HBOSignatureHD" group-title="Movies", HBO Signature
+http://learninglogic.000webhostapp.com/hbos.php
+#EXTINF:-1 tvg-ID="RED" group-title="Movies", RED by HBO
+http://learninglogic.000webhostapp.com/red.php
+#EXTINF:-1 tvg-ID="CINEMAX" group-title="Movies"", Cinemax by HBO
+http://learninglogic.000webhostapp.com/cinemax.php
+#EXTINF:-1 tvg-ID="CrimeInvestigation" group-title="Entertainment", Crime Investigation
+http://learninglogic.000webhostapp.com/crime.php
+#EXTINF:-1 tvg-ID="Flik" group-title="Entertainment", Flik
+http://learninglogic.000webhostapp.com/flik.php
+#EXTINF:-1 tvg-ID="Thrill" group-title="Movies", Thrill
+http://learninglogic.000webhostapp.com/thrill.php
+#EXTINF:-1 tvg-ID="Hits" group-title="Entertainment", HITS
+http://learninglogic.000webhostapp.com/hits.php
+#EXTINF:-1 tvg-ID="HITSMovies" group-title="Entertainment", HITS Movies
+hthttp://learninglogic.000webhostapp.com/hitsm.php
+#EXTINF:-1 tvg-ID="SonyOneHD" group-title="Korea", Sony One
+http://learninglogic.000webhostapp.com/so.php
+#EXTINF:-1 tvg-ID="Arirang" group-title="Korea", Arirang
+http://learninglogic.000webhostapp.com/arirang.php
+#EXTINF:-1 tvg-ID="TVN" group-title="Korea", tvN
+http://learninglogic.000webhostapp.com/tvn.php
+#EXTINF:-1 tvg-ID="TVNMovies" group-title="Korea", tvN Movies
+http://learninglogic.000webhostapp.com/tvnm.php
+#EXTINF:-1 tvg-ID="KBS World" group-title="Korea", KBS World
+http://learninglogic.000webhostapp.com/kbs.php
+#EXTINF:-1 tvg-ID="KPlus.id" group-title="Korea", K+
+http://learninglogic.000webhostapp.com/k.php
+#EXTINF:-1 tvg-ID="Animax" group-title="Japan", Animax
+http://learninglogic.000webhostapp.com/animax.php
+#EXTINF:-1 tvg-ID="Aniplus.id" group-title="Japan", Aniplus
+http://learninglogic.000webhostapp.com/aniplus.php
+#EXTINF:-1 tvg-ID="WAKUWAKUJAPAN" group-title="Japan", Waku Waku Japan
+http://learninglogic.000webhostapp.com/wwj.php
+#EXTINF:-1 tvg-ID="GEMChannel.id" group-title="Japan", Sony GEM TV
+http://learninglogic.000webhostapp.com/sgtv.php
+#EXTINF:-1 tvg-ID="KIX" group-title="Movies", KIX
+http://learninglogic.000webhostapp.com/kix.php
