@@ -27,7 +27,7 @@ http://learninglogic.000webhostapp.com/v.php
 http://learninglogic.000webhostapp.com/mtv.php
 #EXTINF:-1 tvg-ID="EKonser.id" group-title="Music", E-Konser
 http://learninglogic.000webhostapp.com/ekonser.php
-#EXTINF:-1 tvg-ID="LoveNature.uk" group-title="Knowledge", Love Nature
+#EXTINF:-1 tvg-ID="LoveNature.uk" group-title="Knowledge", Love Nat ure
 http://learninglogic.000webhostapp.com/lovenature.php
 #EXTINF:-1 tvg-ID="HistoryChannel.id" group-title="Knowledge", History
 http://learninglogic.000webhostapp.com/history.php
@@ -88,7 +88,7 @@ http://learninglogic.000webhostapp.com/thrill.php
 #EXTINF:-1 tvg-ID="Hits" group-title="Entertainment", HITS
 http://learninglogic.000webhostapp.com/hits.php
 #EXTINF:-1 tvg-ID="HITSMovies" group-title="Entertainment", HITS Movies
-hthttp://learninglogic.000webhostapp.com/hitsm.php
+http://learninglogic.000webhostapp.com/hitsm.php
 #EXTINF:-1 tvg-ID="SonyOneHD" group-title="Korea", Sony One
 http://learninglogic.000webhostapp.com/so.php
 #EXTINF:-1 tvg-ID="Arirang" group-title="Korea", Arirang
@@ -111,3 +111,53 @@ http://learninglogic.000webhostapp.com/wwj.php
 http://learninglogic.000webhostapp.com/sgtv.php
 #EXTINF:-1 tvg-ID="KIX" group-title="Movies", KIX
 http://learninglogic.000webhostapp.com/kix.php
+#EXTINF:-1 tvg-ID="CelestialMovies" group-title="Chinese", Celestial Movies
+http://learninglogic.000webhostapp.com/cm.php
+#EXTINF:-1 tvg-ID="CCM" group-title="Chinese", Celestial Classic Movies
+http://learninglogic.000webhostapp.com/ccm.php
+#EXTINF:-1 tvg-ID="SCM" group-title="Chinese", Star Chinese Movies
+http://learninglogic.000webhostapp.com/scm.php
+#EXTINF:-1 tvg-ID="Zee" group-title="India", ZEE Bioskop
+http://learninglogic.000webhostapp.com/zb.php
+#EXTINF:-1 tvg-ID="TV1.my" group-title="Malaysia", tv1
+http://learninglogic.000webhostapp.com/tv1.php
+#EXTINF:-1 tvg-ID="TV2.my" group-title="Malaysia", tv2
+http://learninglogic.000webhostapp.com/tv2.php
+#EXTINF:-1 tvg-ID="TV3.my" group-title="Malaysia", tv3
+http://learninglogic.000webhostapp.com/tv3.php
+#EXTINF:-1 tvg-ID="AstroAwani.my" group-title="Malaysia", Astro Awani
+http://learninglogic.000webhostapp.com/astroa.php
+#EXTINF:-1 tvg-ID="AstroCeria.my" group-title="Malaysia", Astro Ceria
+http://learninglogic.000webhostapp.com/astroc.php
+#EXTINF:-1 tvg-ID="AstroOasis.my" group-title="Malaysia", Astro Oasis
+http://learninglogic.000webhostapp.com/astroo.php
+#EXTINF:-1 tvg-ID="AstroPrima.my" group-title="Malaysia", Astro Prima
+http://learninglogic.000webhostapp.com/astrop.php
+#EXTINF:-1 tvg-ID="AstroRia.my" group-title="Malaysia", Astro Ria
+http://learninglogic.000webhostapp.com/astror.php
+#EXTINF:-1 tvg-ID="NBC Golf" group-title="Sports", NBC Golf
+http://learninglogic.000webhostapp.com/nbcg.php
+#EXTINF:-1 tvg-ID="FOXSportsHD" group-title="Sports", FOX Sport 1
+http://learninglogic.000webhostapp.com/fs1.php
+#EXTINF:-1 tvg-ID="FOXSports2" group-title="Sports", FOX Sport 2
+http://learninglogic.000webhostapp.com/fs2.php
+#EXTINF:-1 tvg-ID="FOXSports3" group-title="Sports", FOX Sport 3
+http://learninglogic.000webhostapp.com/fs3.php
+#EXTINF:-1 tvg-ID="FightSports" group-title="Sports", Fight Sport
+http://learninglogic.000webhostapp.com/fights.php
+#EXTINF:-1 tvg-ID="beINSports1" group-title="Sports", beIN Sports 1 ID
+http://learninglogic.000webhostapp.com/bein1.php
+#EXTINF:-1 tvg-ID="beINSports2" group-title="Sports", beIN Sports 2 ID
+http://learninglogic.000webhostapp.com/bein2.php
+#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports", Useesports 1
+http://learninglogic.000webhostapp.com/us1.php
+#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports", Useesports 2
+http://learninglogic.000webhostapp.com/us2.php
+#EXTINF:-1 tvg-ID="Champions1" group-title="Sports", Champions 1 TV
+http://learninglogic.000webhostapp.com/ch1.php
+#EXTINF:-1 tvg-ID="Champions2" group-title="Sports"", Champions 2 TV
+http://learninglogic.000webhostapp.com/ch2.php
+#EXTINF:-1 tvg-ID="NBATV.id" group-title="Sports", NBA TV
+http://learninglogic.000webhostapp.com/nbatv.php
+#EXTINF:-1 tvg-ID="Arena.id" group-title="Sports", Astro Arena
+http://learninglogic.000webhostapp.com/astroarena.php
