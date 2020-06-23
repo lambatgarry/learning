@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO
+http://learninglogic.000webhostapp.com/hbo.php
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Signature
+http://learninglogic.000webhostapp.com/sig.php
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Family
+http://learninglogic.000webhostapp.com/fam.php
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Hits
+http://learninglogic.000webhostapp.com/hits.php
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO RED
+http://learninglogic.000webhostapp.com/
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", CINEMAX
+http://learninglogic.000webhostapp.com/max.php
+
 #EXTINF:-1 tvg-ID="NetTV" group-title="Lokal FTA", NET.
 http://learninglogic.000webhostapp.com/net.php
 #EXTINF:-1 tvg-ID="Indosiar" group-title="Lokal FTA", INDOSIAR
