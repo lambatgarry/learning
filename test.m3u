@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO
-http://iptv.burhansyam.com/hbo.m3u8
+http://iptv.burhansyam.com/hbotest/hbo.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Signature
-http://learninglogic.000webhostapp.com/sig.php
+http://learninglogic.000webhostapp.com/hbotest/sig.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Family
-http://learninglogic.000webhostapp.com/fam.php
+http://learninglogic.000webhostapp.com/hbotest/fam.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Hits
-http://learninglogic.000webhostapp.com/hits.php
+http://learninglogic.000webhostapp.com/hbotest/hits.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO RED
-http://learninglogic.000webhostapp.com/
+http://learninglogic.000webhostapp.com/hbotest/red.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", CINEMAX
-http://learninglogic.000webhostapp.com/max.php
+http://learninglogic.000webhostapp.com/hbotest/max.m3u8
 
 #EXTINF:-1 tvg-ID="NetTV" group-title="Lokal FTA", NET.
 http://learninglogic.000webhostapp.com/net.php
