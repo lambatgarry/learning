@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO
-http://learninglogic.000webhostapp.com/hbo.php
+http://learninglogic.000webhostapp.com/hbo.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Signature
 http://learninglogic.000webhostapp.com/sig.php
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Family
