@@ -11,3 +11,5 @@ http://iptv.burhansyam.com/hbotest/hits.m3u8
 http://iptv.burhansyam.com/hbotest/red.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", CINEMAX
 http://iptv.burhansyam.com/hbotest/max.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", Animax
+http://iptv.burhansyam.com/kochenk/animax.m3u8
