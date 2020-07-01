@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO
-http://iptv.burhansyam.com/hbotest/hbo.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Signature
-http://iptv.burhansyam.com/hbotest/sig.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Family
-http://iptv.burhansyam.com/hbotest/fam.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO Hits
-http://iptv.burhansyam.com/hbotest/hits.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", HBO RED
-http://iptv.burhansyam.com/hbotest/red.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST HBO FHD", CINEMAX
-http://iptv.burhansyam.com/hbotest/max.m3u8
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST TV", Cartoon Network
-http://iptv.burhansyam.com/tv/cn.php
-#EXTINF:-1 tvg-ID="NetTV" group-title="TEST TV", HBO FAMILY
-http://iptv.burhansyam.com/tv/fam.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO
+http://iptv-wow.my.id/tv/hbohd/m3u/hbo.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Signature
+http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Family
+http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Hits
+http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO RED
+http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", CINEMAX
+http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO SD
+http://iptv-wow.my.id/tv/hbosd/m3u/hbo.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Signature SD
+http://iptv-wow.my.id/tv/hbosd/m3u/sig-sd.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Family SD
+http://iptv-wow.my.id/tv/hbosd/m3u/fam-sd.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO Hits SD
+http://iptv-wow.my.id/tv/hbosd/m3u/hist-sd.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO RED SD
+http://iptv-wow.my.id/tv/hbosd/m3u/red-sd.m3u8
+#EXTINF:-1 tvg-ID="NetTV" group-title="HBO", CINEMAX SD
+http://iptv-wow.my.id/tv/hbosd/m3u/max-sd.m3u8
