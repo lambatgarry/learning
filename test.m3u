@@ -24,6 +24,7 @@ http://iptv-wow.my.id/tv/hbosd/m3u/red-sd.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="HBO", CINEMAX SD
 http://iptv-wow.my.id/tv/hbosd/m3u/max-sd.m3u
 
+#EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",Channel Info
 http://brhn.xyz/info.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",PLAYLIST INI GRATIS TIDAK DIPERJUALBELIKAN !!!
@@ -134,8 +135,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://dl.dropboxusercontent.com/s/r2tg76euq1faxxl/fightbox.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f1/25/3c/f1253c7c16fee1f1ed923fc9789e1725.jpg" group-title="Olahraga",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://images.useetv.com/logo_golfplus_big1.png" group-title="Olahraga",GOLF PLUS
-http://brhn.xyz/useetvgo/m3u/golf.m3u8
+#EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
+http://brhn.xyz/mix/visionplus/golf.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/hbogotest/m3u/hbo.m3u8
@@ -271,6 +272,10 @@ http://brhn.xyz/useetvgo/m3u/natgeopeople.m3u8
 http://brhn.xyz/useetvgo/m3u/crimeinvestigation.m3u8
 #EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="Pengetahuan",Lingua
 http://brhn.xyz/useetvgo/m3u/lingua.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Pengetahuan",BBC Earth
+http://brhn.xyz/mix/visionplus/bbcearth.m3u8
+#EXTINF:0  tvg-logo="https://img2.pngdownload.id/20180519/rfe/kisspng-animal-planet-logo-television-channel-5b00ac97651460.971763791526770839414.jpg" group-title="Pengetahuan",Animal Planet
+http://brhn.xyz/mix/visionplus/animalplanet.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
@@ -340,10 +345,10 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Gaya Hidup",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-_400x400.png" group-title="Gaya Hidup",BBC Lifestyle
-http://brhn.xyz/mix/visionplus/bbclifstyle.m3u8
+http://brhn.xyz/mix/visionplus/bbclifestyle.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/335-3354416_fashiononelogo-fashion-one-tv-channel-logo-hd-png.png" group-title="Gaya Hidup",Fashion One
 http://brhn.xyz/mix/visionplus/fashionone.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hgtv-1-logo-png-transparent.png" group-title="Gaya Hidup",HGTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Gaya Hidup",HGTV
 http://brhn.xyz/mix/visionplus/hgtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Gaya Hidup",LIFE TIME
 http://brhn.xyz/mix/visionplus/lifetime.m3u8
@@ -487,4 +492,3 @@ http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 http://178.128.121.192/hlsmobile/web.m3u8
 #EXTINF:0  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
