@@ -22,4 +22,4 @@ http://iptv-wow.my.id/tv/hbosd/m3u/hits-sd.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="HBO", HBO RED SD
 http://iptv-wow.my.id/tv/hbosd/m3u/red-sd.m3u8
 #EXTINF:-1 tvg-ID="NetTV" group-title="HBO", CINEMAX SD
-http://iptv-wow.my.id/tv/hbosd/m3u/max-sd.m3u8
+http://iptv-wow.my.id/tv/hbosd/m3u/max-sd.php
